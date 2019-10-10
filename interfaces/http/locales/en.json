@@ -1,0 +1,316 @@
+{
+  "common": {
+    "default": "Failed to connect to the server!Please try again soon!",
+    "unAuth": "Invalid authentication. Please login or register.",
+    "ValidationError": "ValidationError",
+    "invalidPayload": "Invalid payload.",
+    "Success": "SUCCESS",
+    "Error": "ERROR",
+    "DUPLICATE_VALUE": "USED",
+    "bannedUser": "User profile is banned."
+  },
+  "uploadFile": {
+    "success": "file successfully uploaded.",
+    "notFile": "File not available."
+  },
+  "createUser": {
+    "existEmail": "Email already exist.",
+    "existPhone": "Phone number already exist.",
+    "existUsername": "Username is already exist."
+  },
+  "addUserRequest": {
+    "success": "Request added successfully."
+  },
+  "editUserRequest": {
+    "success": "Request successfully updated."
+  },
+  "removeUserRequest": {
+    "success": "Request successfully removed."
+  },
+  "getAllUserRequest": {
+    "success": "Request successfully get."
+  },
+  "addUserFile": {
+    "success": "File added successfully."
+  },
+  "getAllUserFile": {
+    "success": "Files successfully get."
+  },
+  "getSchoolList": {
+    "success": "School list successfully get."
+  },
+  "removeUserFile": {
+    "success": "Files successfully removed.",
+    "notExistFile": "File not exist."
+  },
+  "loginUser": {
+    "notExist": "User not exist.",
+    "InvalidPassword": "Wrong password or email."
+  },
+  "userChangePassword": {
+    "success": "Password successfully changed.",
+    "InvalidPassword": "Wrong password."
+  },
+  "userUpdateProfile": {
+    "success": "User profile successfully updated.",
+    "existPhone": "Phone number already exist.",
+    "existEmail": "Email id already exist.",
+    "existUsername": "Username is already exist."
+  },
+  "updateProfileById": {
+    "success": "User profile successfully updated.",
+    "existPhone": "Phone number already exist.",
+    "existEmail": "Email id already exist.",
+    "existUsername": "Username is already exist."
+  },
+  "addFamily": {
+    "success": "Family detail successfully added.",
+    "exist": "Family detail already exist.",
+    "existEmail": "Email already exist.",
+    "existPhone": "Phone number already exist.",
+    "existUsername": "Username is already exist."
+  },
+  "getFamily": {
+    "success": "Family detail successfully get.",
+    "notExist": "Family detail not exist."
+  },
+  "findFamily": {
+    "success": "Family detail successfully get."
+  },
+  "getFamilyList": {
+    "success": "Family detail successfully get.",
+    "notExist": "Family detail not exist."
+  },
+  "editFamily": {
+    "success": "Family detail successfully edited.",
+    "notExist": "Family detail not exist."
+  },
+  "getFamilyDetail": {
+    "success": "Family detail successfully get.",
+    "notExist": "Family detail not exist."
+  },
+  "getProgram": {
+    "success": "Program detail successfully get.",
+    "notExist": "Program detail not exist."
+  },
+  "addStudent": {
+    "success": "Student detail successfully added."
+  },
+  "updateStudentTask": {
+    "success": "Student detail successfully updated."
+  },
+  "getStudentReport": {
+    "success": "Student Report successfully get."
+  },
+  "addStudentYear": {
+    "success": "Student Year detail successfully added.",
+    "notExistStudent": "Student detail not exist."
+  },
+  "getStudentYear": {
+    "success": "Student Year detail successfully get.",
+    "notExistStudent": "Student detail not exist."
+  },
+  "getStudentCourse": {
+    "success": "Student Course detail successfully get."
+  },
+  "addStudentCourse": {
+    "success": "Student Course detail successfully added.",
+    "notExistStudent": "Student detail not exist.",
+    "notExistStudentYear": "Student Year detail not exist.",
+    "existStudentCourse": "Student Course detail already exist.",
+    "notExistCourse": "Course detail not exist."
+  },
+  "editStudentCourse": {
+    "success": "Student Course detail successfully edited."
+  },
+  "editStudentAttendance": {
+    "success": "Student Attendance detail successfully edited.",
+    "notExistAttendance": "Student Attendance detail not exist."
+  },
+  "removeStudentCourse": {
+    "success": "Student Course detail successfully removed.",
+    "notExist": "Student Course detail not exist."
+  },
+  "addStudentTask": {
+    "success": "Student Task successfully added.",
+    "notExistStudent": "Student detail not exist.",
+    "notExistFamily": "Family detail not exist."
+  },
+  "addFamilyNote": {
+    "success": "Family notes successfully added."
+  },
+  "deleteStudentTask": {
+    "success": "Student Task successfully deleted."
+  },
+  "getPreStudentTask": {
+    "success": "Student Task successfully get."
+  },
+  "getPreUserRequest": {
+    "success": "User request successfully get."
+  },
+  "addPreStudentTask": {
+    "success": "Student Task successfully added."
+  },
+  "addPreUserRequest": {
+    "success": "User request successfully added."
+  },
+  "getStudentTask": {
+    "success": "Task detail successfully get.",
+    "notExistStudent": "Student detail not exist."
+  },
+  "changeStudentTaskStatus": {
+    "success": "Task status successfully updated.",
+    "notExistStudent": "Student detail not exist."
+  },
+  "addStudentAward": {
+    "success": "Student Award successfully added.",
+    "notExistStudent": "Student detail not exist."
+  },
+  "getStudentAward": {
+    "success": "Award detail successfully get.",
+    "notExistStudent": "Student detail not exist."
+  },
+  "getStudentAwardReport": {
+    "success": "Award report successfully get."
+  },
+  "addStudentAttendance": {
+    "success": "Student Attendance detail successfully added.",
+    "notExistStudent": "Student detail not exist.",
+    "notExistStudentYear": "Student Year detail not exist.",
+    "existStudentAttendance": "Student Attendance detail already exist."
+  },
+  "getStudentAttendanceReport": {
+    "success": "Student Attendance report successfully added."
+  },
+  "editStudent": {
+    "success": "Student detail successfully edited.",
+    "notExistStudent": "Student detail not exist."
+  },
+  "reEnrollStudent": {
+    "success": "Process for student auto-reenrollment is running...",
+    "notExistStudent": "Student detail not exist.",
+    "notExistStudentYear": "Student year not exist."
+  },
+  "removeStudent": {
+    "success": "Student detail successfully removed.",
+    "notExistStudent": "Student detail not exist."
+  },
+  "getAllStudent": {
+    "success": "Successful.",
+    "notExistStudent": "Student detail not exist."
+  },
+  "getStudentThisYear": {
+    "success": "Successful.",
+    "notExistStudent": "There are no student in this year."
+  },
+  "getCourse": {
+    "success": "Course detail successfully get.",
+    "notExist": "Course detail not exist."
+  },
+  "getFamilyDashboard": {
+    "success": "Family dashboard detail successfully get."
+  },
+  "addSchool": {
+    "success": "School detail successfully added.",
+    "existEmail": "Email already exist.",
+    "existPhone": "Phone number already exist."
+  },
+  "addUserOrder": {
+    "success": "User Order successfully added.",
+    "notExistFamily": "Family not exists."
+  },
+  "getUserOrderStatistic": {
+    "success": "User Order statistic list successfully get."
+  },
+  "changeUserOrderStatus": {
+    "success": "User Order status successfully changed."
+  },
+  "getUserOrderList": {
+    "success": "User Order List successfully added."
+  },
+  "removeUserOrder": {
+    "success": "User Order successfully removed.",
+    "notExistOrder": "Order not exists."
+  },
+  "getAllSchool": {
+    "success": "School detail successfully get."
+  },
+  "getAllSchoolStaff": {
+    "success": "School Staff List successfully get."
+  },
+  "addSchoolStaff": {
+    "success": "School Staff successfully added.",
+    "existEmail": "Email already Exist.",
+    "existUserName": "Username already Exist."
+  },
+  "editSchoolStaff": {
+    "success": "School Staff successfully edited.",
+    "existEmail": "Email already Exist."
+  },
+  "addTag": {
+    "success": "Tag successfully added.",
+    "exist": "This tag already exist."
+  },
+  "getAllTag": {
+    "success": "Tag successfully get."
+  },
+  "addResource": {
+    "success": "Resource successfully added."
+  },
+  "getAllResource": {
+    "success": "Resource successfully get."
+  },
+  "addDocumentQuestion": {
+    "success": "Question successfully added.",
+    "existAnswer": "Your answer already submitted."
+  },
+  "getDocumentQuestion": {
+    "success": "Question successfully get."
+  },
+  "getCustomUser": {
+    "success": "User detail successfully get.",
+    "notExist": "User detail not exist."
+  },
+  "getNotification": {
+    "success": "Notification successfully get."
+  },
+  "sendCourseApprovalNotification": {
+    "success": "Notification successfully sent to school."
+  },
+  "viewNotification": {
+    "success": "You viewed notification."
+  },
+  "sendNotification": {
+    "success": "Notification successfully sent."
+  },
+  "getSchoolSubscriptionPlanList": {
+    "success": "Subscription Plan list successfully get."
+  },
+  "createTransaction": {
+    "success": "Transaction successfully added."
+  },
+  "getTransaction": {
+    "success": "Transaction successfully get."
+  },
+  "getUserFileById": {
+    "success": "User file's successfully get."
+  },
+  "notifications": {
+    "newStudentTask": {
+      "title": "New Student Task",
+      "body": "New student task created."
+    },
+    "newUserRequest": {
+      "title": "New Usr request",
+      "body": "New User request added."
+    },
+    "newTransaction": {
+      "title": "Transaction",
+      "body": "Transaction made in your account."
+    },
+    "newUserOrder": {
+      "title": "New Usr order",
+      "body": "New User order added."
+    }
+  }
+}
